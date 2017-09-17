@@ -385,7 +385,7 @@ public extension UIViewController {
 }
 
 private struct FAStruct {
-    static let FontName = "FontAwesome"
+    static let FontName = "fontello"
     static let ErrorAnnounce = "****** FONT AWESOME SWIFT - FontAwesome font not found in the bundle or not associated with Info.plist when manual installation was performed. ******"
 }
 
