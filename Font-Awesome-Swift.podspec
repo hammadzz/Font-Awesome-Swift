@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
   s.source_files   = 'Source/FAIcon.swift'
-  s.resource_bundle = { 'Font-Awesome-Swift' => 'Source/FontAwesome.ttf' }
+  s.resource_bundle = { 'Font-Awesome-Swift' => 'Source/fontello.ttf' }
   s.frameworks = 'UIKit', 'CoreText'
   s.requires_arc = true
 end
